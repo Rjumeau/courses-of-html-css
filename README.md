@@ -26,24 +26,24 @@
 * Création d'un logo
 * Composant : Navbar
 
-## Cours 4 : Services et Mook-ups
+## Cours 4 : Summary
+### <a href="https://github.com/Rjumeau/muffin/tree/master" target="_blanck">Lien vers le cours<a>
+* Revue de la structure HTML
+* Revue du CSS
+* Revue des composants
+* Revue des flexbox
+
+
+## Cours 5 : Composant Card
+### <a href="https://github.com/Rjumeau/muffin/tree/muffin-cards" target="_blanck">Lien vers le cours<a>
+* Création d'un composant card
+
+## Cours 6 : Services
 ### <a href="https://github.com/Joz84/day-d.github.io" target="_blanck">Lien vers le cours<a>
 * Services Google
 * Font awesome
-* Bootstrap
-* Conception : Mookups
+* Vidéo Youtube
 
-## Cours 5 : Services et Mise en production	
-### <a href="https://github.com/Joz84/day-e.github.io" target="_blanck">Lien vers le cours<a>
-* MailChimp
-* TypeForme
-* Le wagon Ui components
-* Mise en production :  Github
-
-## Cours 6 : Services et Multi pages
-### <a href="https://github.com/Joz84/day-f.github.io" target="_blanck">Lien vers le cours<a>
-* CodePen
-* La balise <a>
 
 ## Cours 7 : Déploiement sur Github
 ### <a href="https://github.com/Joz84/day-g.github.io" target="_blanck">Lien vers le cours<a>
