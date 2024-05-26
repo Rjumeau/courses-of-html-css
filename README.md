@@ -39,7 +39,7 @@
 * Création d'un composant card
 
 ## Cours 6 : Services
-### <a href="https://github.com/Joz84/day-d.github.io](https://github.com/Rjumeau/muffin/tree/muffin-with-services" target="_blank">Lien vers le cours<a>
+### <a href="https://github.com/Rjumeau/muffin/tree/muffin-with-services" target="_blank">Lien vers le cours<a>
 * Google Maps
 * Youtube
 * Material Icons
