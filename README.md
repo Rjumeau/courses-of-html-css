@@ -10,7 +10,6 @@
 * Trouver une image libre de droit
 * Le fichier CSS
 * Utilisation d'une police Google fonts
-* Insertion d'une vidéo Youtube
 
 ## Cours 2 : Divisions et Classes
 ### <a href="https://github.com/Joz84/day-b.github.io" target="_blank">Lien vers le cours<a>
