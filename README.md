@@ -30,6 +30,7 @@
 ### <a href="https://github.com/Rjumeau/muffin/tree/master" target="_blank">Lien vers le cours<a>
 * Revue de la structure HTML
 * Revue du CSS
+* Importer une police depuis Google Font
 * Revue des composants
 * Revue des flexbox
 
