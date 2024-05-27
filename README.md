@@ -50,5 +50,12 @@
 * Déploiement en ligne
 
 ## La checklist
-Faire une copie de la checklist en appuyant sur Fichier -> Créer une copie 
+Faire une copie de la checklist en appuyant sur Fichier -> Créer une copie
+
 [Checklist](https://docs.google.com/spreadsheets/d/1wh6dVkrdQ3tYMyEV4-WfOaJRsLrCZjdpYyDVmWqNCaQ/edit#gid=0)
+
+## Vos groupes 
+Rentrez les membres de votre projet dans le feuillet de votre groupe EFAP (EFAP 1 - 9h30 - 11h, EFAP 2 - 11h - 12h30)
+Au dernier cours, il faudra rentrer l'url de votre site web dans la colonne concernée.
+
+[Les groupes](https://docs.google.com/spreadsheets/d/1xtmUZApYyVc3OeYyFtAD329td3PE1jcDDaF1BeLR5CQ/edit#gid=0) 
