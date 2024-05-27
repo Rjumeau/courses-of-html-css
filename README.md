@@ -44,6 +44,10 @@
 * Youtube
 * Material Icons
 
+## La checklist
+Faire une copie de la checklist en appuyant sur Fichier -> Créer une copie 
+[Checklist](https://docs.google.com/spreadsheets/d/1wh6dVkrdQ3tYMyEV4-WfOaJRsLrCZjdpYyDVmWqNCaQ/edit#gid=0)
+
 
 ## Cours 7 : Déploiement sur Github
 ### <a href="https://github.com/Joz84/day-g.github.io" target="_blanck">Lien vers le cours<a>
