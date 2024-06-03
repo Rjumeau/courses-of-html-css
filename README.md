@@ -63,4 +63,4 @@ Au dernier cours, il faudra rentrer l'url de votre site web dans la colonne conc
 
 ## Le Quizz
 
-[Le QCM](https://forms.gle/LisDLkRYN4SGYc6D9)
+[Le QCM](https://forms.gle/hHBQW3CzQGUJCupB6)
