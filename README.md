@@ -59,3 +59,8 @@ Rentrez les membres de votre projet dans le feuillet de votre groupe EFAP (EFAP 
 Au dernier cours, il faudra rentrer l'url de votre site web dans la colonne concernée.
 
 [Les groupes](https://docs.google.com/spreadsheets/d/1xtmUZApYyVc3OeYyFtAD329td3PE1jcDDaF1BeLR5CQ/edit#gid=0) 
+
+
+## Le Quizz
+
+[Le QCM](https://forms.gle/LisDLkRYN4SGYc6D9)
