@@ -45,9 +45,15 @@
 * Material Icons
 
 ## Cours 7 : Déploiement sur Github
-### <a href="https://github.com/Joz84/day-g.github.io" target="_blanck">Lien vers le cours<a>
+### <a href="https://github.com/Joz84/day-g.github.io" target="_blank">Lien vers le cours<a>
 * Création de compte
 * Déploiement en ligne
+
+## Cours 8 : Responsive design & utilisation de la balise <a>
+### <a href="https://github.com/Rjumeau/muffin/tree/muffin-responsive" target="_blank">Lien vers le cours<a>
+* Utilisation de la balise a
+* Composant footer
+* Responsive design & media queries
 
 ## La checklist
 Faire une copie de la checklist en appuyant sur Fichier -> Créer une copie
