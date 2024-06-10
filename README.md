@@ -49,7 +49,7 @@
 * Création de compte
 * Déploiement en ligne
 
-## Cours 8 : Responsive design & utilisation de la balise <a>
+## Cours 8 : Responsive design & utilisation de la balise a
 ### <a href="https://github.com/Rjumeau/muffin/tree/muffin-responsive" target="_blank">Lien vers le cours<a>
 * Utilisation de la balise a
 * Composant footer
